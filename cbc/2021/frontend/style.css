@@ -1,0 +1,18 @@
+.card-group {
+  width: 90%;
+  justify-content: center;
+}
+
+.cardContainer {
+  cursor: pointer;
+}
+
+#detailsTable {
+  display: none;
+  text-align: center;
+}
+
+#detailsTable table {
+  width: 300px;
+  margin: auto;
+}
